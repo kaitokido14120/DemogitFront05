@@ -123,5 +123,5 @@ $(document).ready(function () {
         });
     }
 
-    
+    console.log("tinh abc100");
 });
